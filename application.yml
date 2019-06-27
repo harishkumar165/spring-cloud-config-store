@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/harishkumar165/spring-cloud-config-store
+          uri: https://github.com/harishkumar165/spring-cloud-config-store-old
           search-paths:
            - '*service'
 
